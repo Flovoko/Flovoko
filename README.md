@@ -8,3 +8,5 @@
 🧑‍💻 Freetime HTML, CSS, JS, Python and C# dev
 
 🗒️ Neovim user
+
+Linux 🔛🔝
