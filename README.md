@@ -1,6 +1,6 @@
 # Flovoko
 
-Florian
+🧑‍🦱 Florian
 
 🏙️ Hannover, Northern Germany
 
