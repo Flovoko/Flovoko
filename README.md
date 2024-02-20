@@ -4,4 +4,4 @@ Florian
 
 🏙️ Hannover, Northern Germany
 
-🧑‍💻 HTML, CSS, JS, Python and C#
+🧑‍💻 Freetime HTML, CSS, JS, Python and C# dev
