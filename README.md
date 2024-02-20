@@ -9,4 +9,4 @@
 
 🗒️ Neovim user
 
-🐧 Linux and Foss 🔛🔝
+🐧 Linux & Foss 🔛🔝
